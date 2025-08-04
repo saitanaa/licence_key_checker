@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1754259961 source:c:\users\l-primoo\documents\sandbox\main.c
+	<stdio.h>
+	<string.h>
+
